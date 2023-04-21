@@ -40,7 +40,7 @@ import os
 #import difflib
 
 import streamlit as st
-from streamlit_modal import Modal
+#from streamlit_modal import Modal
 import streamlit.components.v1 as components
 
 #from musixmatch import Musixmatch
