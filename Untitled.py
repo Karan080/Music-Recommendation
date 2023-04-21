@@ -16,8 +16,8 @@ import pandas as pd
 import time
 
 #import seaborn as sns
-import plotly.express as px 
-import matplotlib.pyplot as plt
+#import plotly.express as px 
+#import matplotlib.pyplot as plt
 
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
