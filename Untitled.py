@@ -31,19 +31,19 @@ import time
 
 
 import os
-import spotipy
-from spotipy.oauth2 import SpotifyClientCredentials
-from collections import defaultdict
+#import spotipy
+#from spotipy.oauth2 import SpotifyClientCredentials
+#from collections import defaultdict
 
-from sklearn.metrics import euclidean_distances
-from scipy.spatial.distance import cdist
-import difflib
+#from sklearn.metrics import euclidean_distances
+#from scipy.spatial.distance import cdist
+#import difflib
 
 import streamlit as st
 from streamlit_modal import Modal
 import streamlit.components.v1 as components
 
-from musixmatch import Musixmatch
+#from musixmatch import Musixmatch
 
 st.set_page_config(page_title="Music Recommendation", page_icon="🎵", layout='wide') 
 
