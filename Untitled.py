@@ -19,16 +19,15 @@ import time
 #import plotly.express as px 
 #import matplotlib.pyplot as plt
 
-from sklearn.cluster import KMeans
-from sklearn.preprocessing import StandardScaler
-from sklearn.pipeline import Pipeline
-from sklearn.manifold import TSNE
-from sklearn.decomposition import PCA
-from sklearn.metrics import euclidean_distances
-from scipy.spatial.distance import cdist
+#from sklearn.cluster import KMeans
+#from sklearn.preprocessing import StandardScaler
+#from sklearn.pipeline import Pipeline
+#from sklearn.manifold import TSNE
+#from sklearn.decomposition import PCA
+#from sklearn.metrics import euclidean_distances
+#from scipy.spatial.distance import cdist
 
-from flask import Flask,render_template,url_for,request
-import pickle
+
 
 
 import os
